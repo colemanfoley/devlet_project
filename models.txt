@@ -16,6 +16,8 @@ Lesson
 	published_date
 
 Comment
+	lesson (belongs to)
+	user (belongs to)
 	name
 	email
 	website
