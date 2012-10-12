@@ -1,0 +1,25 @@
+User
+	name :string
+	email :string
+	password :string
+	bio :text
+
+Category
+	name :string
+
+Module
+	track_id
+	category_id
+	user_id
+	title
+	body
+	published_date
+
+Comment
+	name
+	email
+	website
+	comment
+
+Track
+	name
