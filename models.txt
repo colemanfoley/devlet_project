@@ -7,7 +7,7 @@ User
 Category
 	name :string
 
-Module
+Lesson
 	track_id
 	category_id
 	user_id
